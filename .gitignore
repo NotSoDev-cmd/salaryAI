@@ -7,7 +7,6 @@ env/
 venv/
 ENV/
 .venv
-*.cbm
 data.csv
 catboost_info/
 *.log
